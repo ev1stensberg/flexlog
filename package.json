@@ -1,0 +1,16 @@
+{
+  "name": "flexlog",
+  "version": "1.0.0",
+  "description": "Flexible console logs",
+  "main": "index.js",
+  "scripts": {
+    "lint": "xo",
+    "test": "ava ./test/test.js --verbose"
+  },
+  "author": "Even Stensberg<evenstensberg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.17.1"
+  }
+}
