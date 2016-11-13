@@ -1,6 +1,6 @@
 {
   "name": "flexlog",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Flexible console logs",
   "main": "index.js",
   "scripts": {
